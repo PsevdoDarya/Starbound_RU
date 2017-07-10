@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A good place to play Hide and Seek."
+      "Eng": "A good place to play Hide and Seek.",
+      "Rus": "Хорошее место чтобы играть в прятки.\n"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Big strange flowers. I could try hiding behind these."
+      "Eng": "Big strange flowers. I could try hiding behind these.",
+      "Rus": "Большие странные цветы.Можно попробовать спрятаться за ними."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Caution, someone could be hidden behind these flowers."
+      "Eng": "Caution, someone could be hidden behind these flowers.",
+      "Rus": "Осторожно, кто-то мог спрятаться за этими цветами."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Florans like to hide in flowersss"
+      "Eng": "Florans like to hide in flowersss",
+      "Rus": "Флоране любят прятаться в цветах."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "In a sticky situation, one might use this flower box as a hidin' place."
+      "Eng": "In a sticky situation, one might use this flower box as a hidin' place.",
+      "Rus": "Коль прижмёт, сей горшок как нычку используем."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It might be a Floran bed."
+      "Eng": "It might be a Floran bed.",
+      "Rus": "Это возможно кровать у Флоран."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Strange Flower Box"
+      "Eng": "Strange Flower Box",
+      "Rus": "Странный цветочный ящик."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Strange oversized flowers, you can hide inside!"
+      "Eng": "Strange oversized flowers, you can hide inside!",
+      "Rus": "Странные большие цветы,ты можешь спрятаться внутри!"
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "These flowers looks comfortable."
+      "Eng": "These flowers looks comfortable.",
+      "Rus": "Эти цветы выглядят удобными."
     }
   }
 ]
